@@ -1,5 +1,5 @@
 {
-  "name": "backend-sembako-go",
+  "name": "backend-the-reptiles",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "nodejs",
     "jwt",
     "passport",
-    "express"
+    "express" 
   ],
   "author": "",
   "license": "ISC",
